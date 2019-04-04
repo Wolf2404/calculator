@@ -8,7 +8,7 @@
 <!-- versionCode is optional and Android only -->
 <!-- version is in major.minor.patch format-->
 
-  <name>Hello World Example</name>
+  <name>My Calculator</name>
 
   <description>
       An example for Mobile App Development Lecture at UTM.
